@@ -10,8 +10,9 @@ I have tried to include the Water SHield and Earth Shield speels, but no idea if
 work as of this stage i don't have a lvl 60
 
 If i can figure them our future additions will be:
-- Save last used totem to a right click option
+
 - Swap between mana and health for the sphere.
 
+Added right click function
 
 Dependancies: Ace, (I have a copy to clone if you need it)
