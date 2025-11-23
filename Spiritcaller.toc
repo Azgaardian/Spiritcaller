@@ -1,0 +1,25 @@
+## Interface: 11200
+## Author: Azgaardian
+## Title: Spiritcaller |cff007fff -Turtle-|r
+## Notes: Turtle Totems Ace'd
+## DefaultState:
+## Dependencies: Ace
+## OptionalDeps: CompostLib, Metrognome, Timex
+## SavedVariables: SpiritcallerDB
+
+Libs\Metrognome\MetrognomeLib.lua
+Libs\CompostLib\CompostLib.lua
+
+Libs\Timex\Core\TimexCoreLocals.lua
+Libs\Timex\ChatCmd\TimexChatCmdLocals.lua
+Libs\Timex\Core\TimexCore.xml
+Libs\Timex\Core\TimexCore.lua
+Libs\Timex\ChatCmd\TimexChatCmd.lua
+Libs\Timex\Bar\TimexBar.xml
+Libs\Timex\Bar\TimexBar.lua
+Libs\Timex\Support\TimexDeprecated.lua
+Libs\Timex\Support\TimexChronosSupport.lua
+
+Spiritcaller.xml
+SpiritcallerLocals.lua
+Spiritcaller.lua
