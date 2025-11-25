@@ -1,4 +1,4 @@
-Totemus Turtle is a attempt to bring Totemus to a 1.12 client with some of the 
+SpiritCaller is a attempt to bring Totemus to a 1.12 client with some of the 
 features i use to love in the TBC and Wrath editions.  And is a learning LUA 
 experience for myself.
 
